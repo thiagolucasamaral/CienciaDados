@@ -14,8 +14,12 @@ Sklearn.
 
 AUTORES
 
-Thiago Lucas Amaral - RA 417200114
+Thiago Lucas Amaral - RA 417200114 
+
 Guilherme Souza Costa - RA 417101275
+
 Nathalia Cristina de Araujo - RA 417201462
+
 Giovana Laudi Cardoso - RA 3017203083
+
 Miguel Herminio Da Costa Junior - RA 417201987
