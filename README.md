@@ -6,9 +6,13 @@ Com base nos dados, aplicamos o conhecimento que adquirimos na disciplina de Ci√
 Bibliotecas Utilizadas:
 
 Pandas;
+
 Matplotlib;
+
 Numpy;
+
 Seaborn;
+
 Sklearn.
 
 
